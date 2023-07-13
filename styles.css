@@ -3,9 +3,6 @@ body{
   background-size : cover;
   background-repeat : no-repeat;
 }
-.a{
-  background-image : url("images.png");
-}
 h1{
   color : azure;
   text-align : center;
