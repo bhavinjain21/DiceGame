@@ -7,6 +7,10 @@ h1{
   color : azure;
   text-align : center;
 }
+logo{
+  height:50px;
+  width:50px;
+}
 img{
   width : 300px;
 }
