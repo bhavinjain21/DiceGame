@@ -1,1 +1,33 @@
-
+body{
+  background-color:#1338BE;
+  background-size : cover;
+  background-repeat : no-repeat;
+}
+.a{
+  background-image : url("images.png");
+}
+h1{
+  color : azure;
+  text-align : center;
+}
+img{
+  width : 300px;
+}
+.pl1{
+  display: flex;
+}
+.p1{
+  text-align: left;
+  flex:60%;
+  padding : 20px;
+  margin-left : 10px;
+}
+.p2{
+  text-align: left;
+  flex:60%;
+  padding : 20px;
+  margin-left : 150px;
+}
+p{
+  color:azure;
+  }
